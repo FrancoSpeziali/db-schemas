@@ -8,12 +8,12 @@ Schemas allow you to set rules for the type of data you will want to save in you
 
 ## Tasks
 
-## Task 1 - Installing Mongoose
+### Task 1 - Installing Mongoose
 
 Install mongoose
 - `npm i mongoose`
 
-## Task 2 - Writing a "Diagnosis" Schema
+### Task 2 - Writing a "Diagnosis" Schema
 
 Consider the following raw `diagnosis` data:
 
@@ -26,7 +26,7 @@ description: Poisoning by hydantoin derivatives accidental (unintentional)
 
 - Write a Mongoose schema which correctly reflects this data
 
-## Task 3 - Writing a "Car" Schema
+### Task 3 - Writing a "Car" Schema
 
 Consider the following raw `car` data:
 
@@ -40,7 +40,7 @@ year: 1994
 
 - Write a Mongoose schema which correctly reflects this data
 
-## Task 4 - Writing an "Order" Schema
+### Task 4 - Writing an "Order" Schema
 
 Consider the following raw `order` data:
 
@@ -54,7 +54,7 @@ department: Sports
 validated: true
 ```
 
-## Task 5 - Writing a "User" Schema
+### Task 5 - Writing a "User" Schema
 
 Consider the following raw `user` data:
 
@@ -72,7 +72,7 @@ dateOfBirth: 1628972562000
 
 - Write a Mongoose schema which correctly reflects this data
 
-## Task 6 - Writing a "Location" Schema
+### Task 6 - Writing a "Location" Schema
 
 Consider the following raw `location` data:
 
